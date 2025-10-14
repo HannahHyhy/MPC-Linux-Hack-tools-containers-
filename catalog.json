@@ -1,0 +1,13 @@
+{
+  "name": "sectools-mcp",
+  "tools": [
+    { "name": "nmap_scan" },
+    { "name": "nikto_scan" },
+    { "name": "sqlmap_test" },
+    { "name": "wpscan_scan" },
+    { "name": "dirb_scan" },
+    { "name": "searchsploit_lookup" },
+    { "name": "port_scan_basic" },
+    { "name": "get_tool_info" }
+  ]
+}
