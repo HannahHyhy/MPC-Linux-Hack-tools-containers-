@@ -10,8 +10,6 @@ Idea from Networkchuck on youtube. Make with some help of AI. Version 0.7
 This project is a lightweight AI-integrated penetration testing system built with Docker and connected via the Model Context Protocol (MCP).  
 You can interact with an AI agent to run tools like `nmap`, `sqlmap`, `nikto`, and receive real-time scan results from inside the container.
 
-> ✨ This is my first fully completed coding project — and it actually works!
-
 ## 🧰 Technologies Used
 
 - 🐳 Docker (for containerizing security tools)
