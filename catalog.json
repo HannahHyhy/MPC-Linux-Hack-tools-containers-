@@ -8,6 +8,11 @@
     { "name": "dirb_scan" },
     { "name": "searchsploit_lookup" },
     { "name": "port_scan_basic" },
-    { "name": "get_tool_info" }
+    { "name": "get_tool_info" },
+    { "name": "hydra_brute" },
+    { "name": "john_hash_crack" },
+    { "name": "hashcat_crack" },
+    { "name": "netcat_reverse_shell" },
+    { "name": "aircrack_ng_crack" }
   ]
 }
