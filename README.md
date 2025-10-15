@@ -1,9 +1,9 @@
 # MPC-Linux-Hack-tools-containers-
-Idea from Networkchuck on youtube. Make with some help of AI. Version 0.7 
+Idea from Networkchuck on youtube. Make with some help of AI. Version 0.8. Files need to download: CLAUDE.md, Dockerfile.txt, InstructionforAI.txt, catalog.json, requirements.txt, sectools_server.py
 # 🛡️ MCP Security Tools — AI-Powered Pentesting via Docker
 
 **Author:** Hannah  
-**Project completed on:** October 14, 2025 🎉
+**Project first made:** October 14, 2025 🎉
 
 ## 🚀 Overview
 
@@ -14,13 +14,17 @@ You can interact with an AI agent to run tools like `nmap`, `sqlmap`, `nikto`, a
 
 - 🐳 Docker (for containerizing security tools)
 - 🔌 MCP Gateway (to connect AI agents with tools)
-- 🤖 AI Agent (Claude, GPT-4, or Cursor-integrated AI)
+- 🤖 AI Agent (Claude, Cursor,...)
 - 🛠️ Pentesting tools:
   - `nmap_scan`
   - `sqlmap_test`
   - `nikto_scan`
   - `whois_lookup`
   - `dns_enum`
+  - `hydra_brute`
+  - `john_hash_crack`
+  - `hashcat`
+  - and others too ! 
 
 ## 📦 How to Run
 
